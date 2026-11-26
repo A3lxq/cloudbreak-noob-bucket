@@ -1,0 +1,12 @@
+====================================================================
+NIMBUS FREIGHT -- Public Assets
+====================================================================
+This bucket hosts public marketing assets and static site content.
+It's meant to be world-readable -- if you can read this, that part's
+working as intended.
+
+Recon flag: FLAG1_PLACEHOLDER
+
+Engineering note: the deploy pipeline drops its logs in this same
+bucket under logs/. Worth a look if you're poking around.
+====================================================================

@@ -1,0 +1,8 @@
+Internal memo -- storage admins only
+======================================
+If you can read this, your deploy-service credentials actually have
+admin-level access. That was never supposed to happen.
+
+Private flag: FLAG6_PLACEHOLDER
+
+See employee_portal_creds.txt for the deploy account's login details.

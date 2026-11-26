@@ -1,0 +1,10 @@
+{
+  "_comment": "deploy-service-config.json -- last synced before the migration",
+  "_flag": "FLAG5_PLACEHOLDER",
+  "storage": {
+    "endpoint": "http://storage.nimbusfreight.internal:9000",
+    "access_key": "nimbus-deploy-svc",
+    "secret_key": "Fr3ight-Deploy-2024!",
+    "note": "TODO: rotate before go-live. Nobody ever did. Also used for the deploy account's own SSH login on the storage host, against policy."
+  }
+}

@@ -1,0 +1,8 @@
+[deploy] 2026-11-01 03:14:02 build nimbus-freight-web@2.3.1 ok
+[deploy] 2026-11-01 03:14:55 sync to public-assets ok
+[deploy] 2026-11-01 03:15:10 sync to nimbus-freight-backups ok
+[deploy] 2026-11-01 03:15:11 note: backups bucket isn't linked anywhere
+         on the public site, just a naming convention everyone on the
+         team already knows.
+
+Deploy log flag: FLAG3_PLACEHOLDER

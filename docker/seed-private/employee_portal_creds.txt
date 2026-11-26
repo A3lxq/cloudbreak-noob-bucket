@@ -1,0 +1,8 @@
+Deploy account -- SSH login
+============================
+username: nimbus-deploy
+password: Fr3ight-Deploy-2024!
+
+Same password as the storage credentials above. We know, we know.
+
+Flag: FLAG7_PLACEHOLDER
